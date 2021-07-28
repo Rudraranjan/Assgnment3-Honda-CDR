@@ -1,0 +1,24 @@
+/* body details here */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header details here */
+header{
+    background-color: #264653;
+}
+.button-color{
+    background-color: #E76F51;
+    color: white;
+    width: 168px;
+    height: 44px;
+}
+.font-color{
+    color: #E0E0E0;
+}
+/* Main section css here */
+.filter{
+    filter: grayscale(100%);
+}
+.text-color{
+    color: #E76F51;
+}
